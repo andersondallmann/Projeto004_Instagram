@@ -1,5 +1,4 @@
-<h1> Bootcamp: Clone da pagina di Instagram</h1>
-
+<h1> Bootcamp Spread: Clone da pagina do Instagram</h1>
 
 <h2>🛑 Tecnologias utilizadas</h2>
 
